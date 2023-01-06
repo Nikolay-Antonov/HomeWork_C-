@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="adm"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-01-06 09:15:25 "/>
+        <attribute name="created" value="YWRtO0hPTUUtUEM7MjAyMy0wMS0wNjsiMDY6NTY6MjUgIjsxOTg4"/>
+        <attribute name="edited" value="YWRtO0hPTUUtUEM7MjAyMy0wMS0wNjsiMDk6MTU6MjUgIjsxMDsyMTQy"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="number" type="Integer" array="False" size=""/>
+            <input variable="number"/>
+            <if expression="number % 2 == 0">
+                <then>
+                    <declare name="&#1095;&#1077;&#1090;&#1085;&#1086;&#1077;" type="String" array="False" size=""/>
+                    <output expression="&#1095;&#1077;&#1090;&#1085;&#1086;&#1077;" newline="True"/>
+                </then>
+                <else>
+                    <declare name="&#1085;&#1077;&#1095;&#1077;&#1090;&#1085;&#1086;&#1077;" type="String" array="False" size=""/>
+                    <output expression="&#1053;&#1077;&#1095;&#1077;&#1090;&#1085;&#1086;&#1077;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
