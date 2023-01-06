@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WORK\\GeekBrains\\С_sharp_HomeWork\\Homework_1\\Exp1\\Exp1.csproj",
+      "projectUniqueName": "D:\\WORK\\GeekBrains\\С_sharp_HomeWork\\Homework_1\\Ex1\\Exp1.csproj",
       "projectName": "Exp1",
-      "projectPath": "D:\\WORK\\GeekBrains\\С_sharp_HomeWork\\Homework_1\\Exp1\\Exp1.csproj",
+      "projectPath": "D:\\WORK\\GeekBrains\\С_sharp_HomeWork\\Homework_1\\Ex1\\Exp1.csproj",
       "packagesPath": "C:\\Users\\adm\\.nuget\\packages\\",
-      "outputPath": "D:\\WORK\\GeekBrains\\С_sharp_HomeWork\\Homework_1\\Exp1\\obj\\",
+      "outputPath": "D:\\WORK\\GeekBrains\\С_sharp_HomeWork\\Homework_1\\Ex1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\adm\\AppData\\Roaming\\NuGet\\NuGet.Config",
