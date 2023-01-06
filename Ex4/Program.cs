@@ -4,7 +4,7 @@ N = Convert.ToInt32(Console.ReadLine());
 int[] numbers = new int[N];
 
 int index = 1;
-while (index < N)
+while (index <= N)
 {
     if (index % 2 == 0)
     {
